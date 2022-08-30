@@ -93,6 +93,6 @@ class linkedlist:
 linked = linkedlist()
 
 linked.display()
-print("-----------------------------------")
+print("-------------")
 linked.removeLastNode()
 linked.display()
